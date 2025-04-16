@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+scapy
+cryptography
+pillow
+termcolor
+colorama
+whois
+python-whois
+pycryptodome
+validators
+dnspython
