@@ -1,8 +1,3 @@
-Here is your complete, **single `README.md` file**, fully detailed, modern, and professional for your GitHub VAPT Toolkit project:
-
----
-
-```markdown
 <h1 align="center">🛡️ XD3Parth VAPT Toolkit 🔍</h1>
 
 <p align="center">
@@ -179,5 +174,3 @@ Use responsibly ⚖️
 <p align="center">
   🚀 Star this repo if you like it • Share it with your cyber squad 💻🕵️‍♂️
 </p>
-```
-
